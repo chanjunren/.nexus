@@ -1,30 +1,19 @@
 # .projects
-
-repository of submodules that I want quick access to
+Collection of git repositories I want quick access to
 
 ## 🚀 commands
-
 ```
 git submodule add <repository-url> <path/to/submodule>
 ```
-
-> Initialising everything
-
-```
+> Adding a sub-module
 
 ```
+git submodule deinit -f <path/to/submodule>
+```
+> Removing a sub-module
 
-git submodule add <repository-url> <path/to/submodule>
 
 ```
-
-> Adding sumbmodule
-
+git submodule update --init --recursive
 ```
-
-git submodule add <repository-url> <path/to/submodule>
-
-```
-
-> Initializing submodule
-```
+> Updating all sub-modules
