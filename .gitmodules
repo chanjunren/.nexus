@@ -1,0 +1,15 @@
+[submodule "chanjunren.github.io"]
+	path = chanjunren.github.io
+	url = git@github.com:chanjunren/chanjunren.github.io.git
+[submodule "dot"]
+	path = dot
+	url = git@github.com:chanjunren/dot.git
+[submodule "docusaurus-obsidian-bridge"]
+	path = docusaurus-obsidian-bridge
+	url = git@github.com:chanjunren/docusaurus-obsidian-bridge.git
+[submodule "threejs-journey"]
+	path = threejs-journey
+	url = git@github.com:chanjunren/threejs-journey.git
+[submodule "chanjunren"]
+	path = chanjunren
+	url = git@github.com:chanjunren/chanjunren.git
