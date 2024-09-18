@@ -16,3 +16,6 @@
 [submodule "vaultusaurus"]
 	path = vaultusaurus
 	url = git@github.com:chanjunren/vaultusaurus.git
+[submodule "vaultusaurus.wiki"]
+	path = vaultusaurus.wiki
+	url = git@github.com:chanjunren/vaultusaurus.wiki.git
