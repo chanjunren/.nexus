@@ -13,3 +13,6 @@
 [submodule "chanjunren"]
 	path = chanjunren
 	url = git@github.com:chanjunren/chanjunren.git
+[submodule "vaultusaurus"]
+	path = vaultusaurus
+	url = git@github.com:chanjunren/vaultusaurus.git
