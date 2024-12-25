@@ -12,7 +12,6 @@ git submodule deinit -f <path/to/submodule>
 ```
 > Removing a sub-module
 
-
 ```
 git submodule update --init --recursive
 ```

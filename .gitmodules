@@ -1,6 +1,7 @@
 [submodule "chanjunren.github.io"]
 	path = chanjunren.github.io
 	url = git@github.com:chanjunren/chanjunren.github.io.git
+	branch = master
 [submodule "dot"]
 	path = dot
 	url = git@github.com:chanjunren/dot.git
