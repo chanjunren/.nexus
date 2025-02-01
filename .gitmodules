@@ -20,3 +20,6 @@
 [submodule "vaultusaurus.wiki"]
 	path = vaultusaurus.wiki
 	url = git@github.com:chanjunren/vaultusaurus.wiki.git
+[submodule "gomu-skater"]
+	path = gomu-skater
+	url = git@github.com:chanjunren/gomu-skater.git
