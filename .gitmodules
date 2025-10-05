@@ -23,3 +23,6 @@
 [submodule "gomu-skater"]
 	path = gomu-skater
 	url = git@github.com:chanjunren/gomu-skater.git
+[submodule "where-money-go"]
+	path = where-money-go
+	url = git@github.com:chanjunren/where-money-go.git
